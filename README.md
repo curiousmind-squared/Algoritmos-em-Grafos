@@ -21,3 +21,5 @@ Carrega o grafo,
 imprime a matriz de adjacências do grafo,    
 Responde se o grafo é conexo.
 E diz quantas componentes conexas tem o grafo.
+
+Para rodar, basta baixar os 3 arquivos .py no mesmo diretório e chamar o interpretador com main.py como argumento
