@@ -4,8 +4,6 @@ Programa em python que oferece as seguintes funcionalidades
 - Le n, n>0, e as arestas ij, i<j em {0,1,2,...,n-1}=V  
 Pede o nome do grafo G. (dado pelo usuário)  
 Armazena G=(V,E) na memória.  
-Imprime a matriz de adjacências M{nxn}.  
-E o valor de m=|E|.
 - Pede o nome do grafo G e carrega e imprime a matriz de adjacências M{nxn} de G. 
   E o valor de m=|E|.  
  - Produz um grafo de uma classe especial:  
